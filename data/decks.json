@@ -1,0 +1,1675 @@
+{
+  "resolved": "2026-11-01",
+  "scryfall": "https://scryfall.com",
+  "decks": [
+    {
+      "player": "Kiley",
+      "nickname": "Zuko",
+      "aliases": [],
+      "commander": "Fire Lord Zuko",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "B",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Noble Ally",
+      "scryfall": "https://scryfall.com/card/tla/221/fire-lord-zuko",
+      "image": "https://cards.scryfall.io/small/front/e/6/e62d3bcc-7bb4-42be-90a9-caf3c1caa29d.jpg?1783904927",
+      "sheet": {
+        "commander": "Fire Lord Zuko",
+        "games": 2,
+        "wins": 1,
+        "accuracy": ">1 past win",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Fungus",
+      "aliases": [],
+      "commander": "Slimefoot, the Stowaway",
+      "resolution": "sheet",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Fungus",
+      "scryfall": "https://scryfall.com/card/cmm/356/slimefoot-the-stowaway",
+      "image": "https://cards.scryfall.io/small/front/c/b/cb12173d-3afb-4e8b-b612-fa7737a8c6c2.jpg?1783915609",
+      "sheet": {
+        "commander": "Slimefoot, the Stowaway",
+        "games": 5,
+        "wins": 2,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Daredevil",
+      "aliases": [],
+      "commander": "Daredevil, Fearless Fighter",
+      "resolution": "sheet",
+      "colors": [
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Hero",
+      "scryfall": "https://scryfall.com/card/msc/685/daredevil-fearless-fighter",
+      "image": "https://cards.scryfall.io/small/front/a/5/a5cf63bd-66db-48b4-87b9-0d0e923e1e42.jpg?1783903051",
+      "sheet": {
+        "commander": "Daredevil, Fearless Fighter",
+        "games": 6,
+        "wins": 2,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Doc Ock",
+      "aliases": [],
+      "commander": "Doctor Octopus, Master Planner",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Human Scientist Villain",
+      "scryfall": "https://scryfall.com/card/spm/128/doctor-octopus-master-planner",
+      "image": "https://cards.scryfall.io/small/front/7/6/76e1d361-18a1-4dec-a203-f83bf0014e02.jpg?1783905317",
+      "sheet": {
+        "commander": "Doctor Octopus, Master Planner",
+        "games": 3,
+        "wins": 0,
+        "accuracy": ">1 past win",
+        "notes": "against Mr. Negative for sure"
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Cats",
+      "aliases": [],
+      "commander": "Nethroi, Apex of Death",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "B",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Cat Nightmare Beast",
+      "scryfall": "https://scryfall.com/card/dmc/163/nethroi-apex-of-death",
+      "image": "https://cards.scryfall.io/small/front/0/4/04b9b58f-4c01-48a5-afaf-b8a37165a83f.jpg?1783921407",
+      "sheet": {
+        "commander": "Nethroi, Apex of Death",
+        "games": 3,
+        "wins": 1,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Detectives",
+      "aliases": [],
+      "commander": "Morska, Undersea Sleuth",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Vedalken Fish Detective",
+      "scryfall": "https://scryfall.com/card/mkc/3/morska-undersea-sleuth",
+      "image": "https://cards.scryfall.io/small/front/a/e/ae9ccfec-05c6-469e-b1dd-dfbafa1e927f.jpg?1783913056",
+      "sheet": {
+        "commander": "Morska, Undersea Sleuth",
+        "games": 5,
+        "wins": 2,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Zedruu",
+      "aliases": [],
+      "commander": "Zedruu the Greathearted",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Minotaur Monk",
+      "scryfall": "https://scryfall.com/card/c16/231/zedruu-the-greathearted",
+      "image": "https://cards.scryfall.io/small/front/e/9/e9ea2a6b-5aaf-4178-b945-f409fe83c41a.jpg?1783937042",
+      "sheet": {
+        "commander": "Zedruu the Greathearted",
+        "games": 5,
+        "wins": 1,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Fantastic Four",
+      "aliases": [],
+      "commander": "The Fantastic Four",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Hero",
+      "scryfall": "https://scryfall.com/card/msc/741/the-fantastic-four",
+      "image": "https://cards.scryfall.io/small/front/d/7/d78cb67a-ed8a-4e76-8506-04c274318b56.jpg?1792282544",
+      "sheet": {
+        "commander": "The Fantastic Four",
+        "games": 3,
+        "wins": 1,
+        "accuracy": "",
+        "notes": "accurate wins but lost more games"
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Kiley",
+      "nickname": "Yeerk",
+      "aliases": [],
+      "commander": "Najal, the Storm Runner",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Efreet Wizard",
+      "scryfall": "https://scryfall.com/card/dmu/208/najal-the-storm-runner",
+      "image": "https://cards.scryfall.io/small/front/9/0/9017ee70-761b-434e-bc44-705cf14336fa.jpg?1783921281",
+      "sheet": {
+        "commander": "Najal, the Storm Runner",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Mirko",
+      "aliases": [],
+      "commander": "Mirko, Obsessive Theorist",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Vampire Detective",
+      "scryfall": "https://scryfall.com/card/mkc/2/mirko-obsessive-theorist",
+      "image": "https://cards.scryfall.io/small/front/6/9/690acbbf-5e92-4323-b939-31bdb07f9905.jpg?1783913056",
+      "sheet": {
+        "commander": "Mirko, Obsessive Theorist",
+        "games": 3,
+        "wins": 2,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Sheoldred",
+      "aliases": [],
+      "commander": "Sheoldred, Whispering One",
+      "resolution": "sheet",
+      "colors": [
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Phyrexian Praetor",
+      "scryfall": "https://scryfall.com/card/jmp/278/sheoldred-whispering-one",
+      "image": "https://cards.scryfall.io/small/front/8/b/8b207a4a-47d1-4905-81d3-455c59bfd7da.jpg?1783930409",
+      "sheet": {
+        "commander": "Sheoldred, Whispering One",
+        "games": 4,
+        "wins": 2,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Dina",
+      "aliases": [],
+      "commander": "Dina, Soul Steeper",
+      "resolution": "sheet",
+      "colors": [
+        "B",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Dryad Druid",
+      "scryfall": "https://scryfall.com/card/soc/305/dina-soul-steeper",
+      "image": "https://cards.scryfall.io/small/front/6/a/6ae992b6-506b-4667-884f-4f7fc075b71e.jpg?1783903754",
+      "sheet": {
+        "commander": "Dina, Soul Steeper",
+        "games": 3,
+        "wins": 1,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Gilgamesh",
+      "aliases": [],
+      "commander": "Kenrith, the Returned King",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Noble",
+      "scryfall": "https://scryfall.com/card/plst/ELD-303/kenrith-the-returned-king",
+      "image": "https://cards.scryfall.io/small/front/0/e/0e259db1-14db-4314-998c-6a076a28d8cb.jpg?1783916113",
+      "sheet": {
+        "commander": "Kenrith, the Returned King",
+        "games": 4,
+        "wins": 2,
+        "accuracy": "",
+        "notes": "accurate wins but lost more games"
+      },
+      "notes": "The sheet maps the Gilgamesh nickname to Kenrith, the Returned King.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Mr. Negative",
+      "aliases": [],
+      "commander": "Mister Negative",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Human Villain",
+      "scryfall": "https://scryfall.com/card/spm/135/mister-negative",
+      "image": "https://cards.scryfall.io/small/front/2/c/2c9cb13d-55ff-4e26-aa49-755f8bcebc11.jpg?1783905315",
+      "sheet": {
+        "commander": "Mister Negative",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Bruna",
+      "aliases": [],
+      "commander": "Bruna, Light of Alabaster",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U"
+      ],
+      "type": "Legendary Creature \u2014 Angel",
+      "scryfall": "https://scryfall.com/card/c18/170/bruna-light-of-alabaster",
+      "image": "https://cards.scryfall.io/small/front/5/8/58c56bad-68ed-4328-a7ea-c528b58dc2fd.jpg?1783934280",
+      "sheet": {
+        "commander": "Bruna, Light of Alabaster",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Anje",
+      "aliases": [],
+      "commander": "Anje Falkenrath",
+      "resolution": "sheet",
+      "colors": [
+        "B",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Vampire",
+      "scryfall": "https://scryfall.com/card/c19/37/anje-falkenrath",
+      "image": "https://cards.scryfall.io/small/front/9/1/913dd06f-ed2f-4128-9c9d-9cd0d8a55425.jpg?1783932801",
+      "sheet": {
+        "commander": "Anje Falkenrath",
+        "games": 3,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan S",
+      "nickname": "Uringer",
+      "aliases": [],
+      "commander": null,
+      "resolution": "unresolved",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "No Scryfall card matches \"Uringer\" (exact and fuzzy both miss). Ureni of the Unwritten and Ureni, the Song Unending are different names and were not assumed to be typos.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Group Hug",
+      "aliases": [],
+      "commander": "Kynaios and Tiro of Meletis",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Soldier",
+      "scryfall": "https://scryfall.com/card/c16/36/kynaios-and-tiro-of-meletis",
+      "image": "https://cards.scryfall.io/small/front/9/7/97fa8615-2b6c-445a-bcaf-44a7e847bf65.jpg?1783937085",
+      "sheet": {
+        "commander": "Kynaios and Tiro of Meletis",
+        "games": 4,
+        "wins": 2,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Convoke",
+      "aliases": [],
+      "commander": "Saint Traft and Rem Karolus",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Spirit Human",
+      "scryfall": "https://scryfall.com/card/moc/9/saint-traft-and-rem-karolus",
+      "image": "https://cards.scryfall.io/small/front/5/5/55a45de4-cc76-4aa0-a1dc-24df8e495215.jpg?1783917291",
+      "sheet": {
+        "commander": "Saint Traft and Rem Karolus",
+        "games": 3,
+        "wins": 1,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Breya",
+      "aliases": [],
+      "commander": "Breya, Etherium Shaper",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R"
+      ],
+      "type": "Legendary Artifact Creature \u2014 Human",
+      "scryfall": "https://scryfall.com/card/mh3/289/breya-etherium-shaper",
+      "image": "https://cards.scryfall.io/small/front/8/b/8bf3929c-957f-4ea2-a27d-7d53979844af.jpg?1783911211",
+      "sheet": {
+        "commander": "Breya, Etherium Shaper",
+        "games": 1,
+        "wins": 1,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Mono Red",
+      "aliases": [],
+      "commander": "Themberchaud",
+      "resolution": "sheet",
+      "colors": [
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Dragon",
+      "scryfall": "https://scryfall.com/card/slx/28/themberchaud",
+      "image": "https://cards.scryfall.io/small/front/1/d/1dc40449-0660-4350-900c-ec9b2aaefe1c.jpg?1783906765",
+      "sheet": {
+        "commander": "Themberchaud",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "River Song",
+      "aliases": [],
+      "commander": "River Song",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Time Lord Rogue",
+      "scryfall": "https://scryfall.com/card/who/152/river-song",
+      "image": "https://cards.scryfall.io/small/front/a/1/a1efb084-d2a0-44c4-a89d-6445156bb298.jpg?1783914625",
+      "sheet": {
+        "commander": "River Song",
+        "games": 4,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Dihada",
+      "aliases": [],
+      "commander": "Dihada, Binder of Wills",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "B",
+        "R"
+      ],
+      "type": "Legendary Planeswalker \u2014 Dihada",
+      "scryfall": "https://scryfall.com/card/dmc/1/dihada-binder-of-wills",
+      "image": "https://cards.scryfall.io/small/front/d/d/ddeb54d6-a600-42b9-98df-20f8d58caed8.jpg?1783921477",
+      "sheet": {
+        "commander": "Dihada, Binder of Wills",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Mono Green",
+      "aliases": [
+        "Mono Green (DK)"
+      ],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": {
+        "commander": "Titania",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "The sheet's commander cell says \"Titania\", which is not a full card name. Six legendary Titanias exist. Four are mono-green, which fits the nickname, and two are not. None is selected. The log cell Mono Green (DK) is this deck.",
+      "candidates": [
+        {
+          "name": "Titania, Gaea Incarnate",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental Avatar",
+          "scryfall": "https://scryfall.com/card/bro/256b/titania-gaea-incarnate",
+          "image": "https://cards.scryfall.io/small/front/4/1/414b9230-9d25-4bdf-8b1e-b4fa2035b6a4.jpg?1783920008"
+        },
+        {
+          "name": "Titania, Nature's Force",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/dsc/202/titania-natures-force",
+          "image": "https://cards.scryfall.io/small/front/1/2/1230be09-8436-4023-bb8b-d325456c0914.jpg?1783909598"
+        },
+        {
+          "name": "Titania, Protector of Argoth",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/eoc/111/titania-protector-of-argoth",
+          "image": "https://cards.scryfall.io/small/front/7/3/732c208b-cd9e-48a9-9b9d-aba63066ba53.jpg?1783906029"
+        },
+        {
+          "name": "Titania, Proud Pummeler",
+          "colors": [
+            "R"
+          ],
+          "type": "Legendary Creature \u2014 Human Villain",
+          "scryfall": "https://scryfall.com/card/msc/62/titania-proud-pummeler",
+          "image": "https://cards.scryfall.io/small/front/3/1/31255422-9afa-416c-90b2-62baf1d02cca.jpg?1783903279"
+        },
+        {
+          "name": "Titania, Rugged Rumbler",
+          "colors": [
+            "B",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Human Villain",
+          "scryfall": "https://scryfall.com/card/msh/235/titania-rugged-rumbler",
+          "image": "https://cards.scryfall.io/small/front/c/2/c281e0ee-155b-4022-b921-ebc391535aad.jpg?1783902896"
+        },
+        {
+          "name": "Titania, Voice of Gaea",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/bro/193/titania-voice-of-gaea",
+          "image": "https://cards.scryfall.io/small/front/d/e/deeb6a21-23b0-44f1-b70e-5899bb9d4a84.jpg?1783920039"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "One Drop",
+      "aliases": [],
+      "commander": null,
+      "resolution": "unresolved",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": {
+        "commander": "elf guy",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "The win-rate sheet's commander cell says \"elf guy\", which is not a card name.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Cheese",
+      "aliases": [],
+      "commander": "Morophon, the Boundless",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Shapeshifter",
+      "scryfall": "https://scryfall.com/card/cmm/3/morophon-the-boundless",
+      "image": "https://cards.scryfall.io/small/front/8/4/84238335-e08c-421c-b9b9-70a679ff2967.jpg?1783916893",
+      "sheet": {
+        "commander": "Morophon, the Boundless",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Dinosaur",
+      "aliases": [],
+      "commander": "Morophon, the Boundless",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Shapeshifter",
+      "scryfall": "https://scryfall.com/card/cmm/3/morophon-the-boundless",
+      "image": "https://cards.scryfall.io/small/front/8/4/84238335-e08c-421c-b9b9-70a679ff2967.jpg?1783916893",
+      "sheet": {
+        "commander": "Morophon, the Boundless",
+        "games": 0,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Planeswalker",
+      "aliases": [],
+      "commander": "Jared Carthalion",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Planeswalker \u2014 Jared",
+      "scryfall": "https://scryfall.com/card/dmc/2/jared-carthalion",
+      "image": "https://cards.scryfall.io/small/front/5/a/5acffa48-9e3f-4ba3-a55f-d459307f46df.jpg?1783921476",
+      "sheet": {
+        "commander": "Jared Carthalion",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "The sheet names Jared Carthalion, the five-color planeswalker. Jared Carthalion, True Heir is a different card and was not used.",
+      "candidates": [],
+      "seeAlso": [
+        {
+          "name": "Jared Carthalion, True Heir",
+          "colors": [
+            "W",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Human Warrior",
+          "scryfall": "https://scryfall.com/card/cmr/281/jared-carthalion-true-heir",
+          "image": "https://cards.scryfall.io/small/front/8/1/81bd293b-07b9-4d7c-826a-948d5b01ab5e.jpg?1783928772",
+          "note": "Different card. Not selected."
+        }
+      ]
+    },
+    {
+      "player": "Dylan K",
+      "nickname": "Omnath",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Six legendary Omnaths exist. None is selected. Counted separately from Chris's Omnath.",
+      "candidates": [
+        {
+          "name": "Omnath, Locus of All",
+          "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Phyrexian Elemental",
+          "scryfall": "https://scryfall.com/card/mom/249/omnath-locus-of-all",
+          "image": "https://cards.scryfall.io/small/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940"
+        },
+        {
+          "name": "Omnath, Locus of Creation",
+          "colors": [
+            "W",
+            "U",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/znr/232/omnath-locus-of-creation",
+          "image": "https://cards.scryfall.io/small/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1783929320"
+        },
+        {
+          "name": "Omnath, Locus of Mana",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/cmm/310/omnath-locus-of-mana",
+          "image": "https://cards.scryfall.io/small/front/a/c/acf0cab3-da50-4561-8797-cd179af39216.jpg?1783915624"
+        },
+        {
+          "name": "Omnath, Locus of Rage",
+          "colors": [
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/ecc/129/omnath-locus-of-rage",
+          "image": "https://cards.scryfall.io/small/front/6/3/637c5910-f835-496e-b1b9-445bfb71da97.jpg?1783904537"
+        },
+        {
+          "name": "Omnath, Locus of the Roil",
+          "colors": [
+            "U",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/ecc/130/omnath-locus-of-the-roil",
+          "image": "https://cards.scryfall.io/small/front/6/d/6da6957b-8f52-4fc9-affe-e1e0db03fbe2.jpg?1783904535"
+        },
+        {
+          "name": "Omnath, Locus of the Void",
+          "colors": [],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/frc/3/omnath-locus-of-the-void",
+          "image": "https://cards.scryfall.io/small/front/7/2/727511d8-be1a-4c2e-92f6-5cc9d67a2b0c.jpg?1789644395"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Eggs",
+      "aliases": [],
+      "commander": "Atla Palani, Nest Tender",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Shaman",
+      "scryfall": "https://scryfall.com/card/dmc/142/atla-palani-nest-tender",
+      "image": "https://cards.scryfall.io/small/front/2/b/2b8414f7-22c3-4e1c-934b-4a0e7acf951d.jpg?1783921417",
+      "sheet": {
+        "commander": "Atla Palani, Nest Tender",
+        "games": 1,
+        "wins": 1,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Ninjas",
+      "aliases": [],
+      "commander": "Yuriko, the Tiger's Shadow",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Human Ninja",
+      "scryfall": "https://scryfall.com/card/cmm/364/yuriko-the-tigers-shadow",
+      "image": "https://cards.scryfall.io/small/front/f/e/fe9be3e0-076c-4703-9750-2a6b0a178bc9.jpg?1791803568",
+      "sheet": {
+        "commander": "Yuriko, the Tiger's Shadow",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Token Doubler",
+      "aliases": [],
+      "commander": "Adrix and Nev, Twincasters",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Merfolk Wizard",
+      "scryfall": "https://scryfall.com/card/mkc/198/adrix-and-nev-twincasters",
+      "image": "https://cards.scryfall.io/small/front/b/9/b9c11061-bb34-4904-b9f1-ea106b517bbe.jpg?1783912983",
+      "sheet": {
+        "commander": "Adrix and Nev, Twincasters",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Kraken",
+      "aliases": [],
+      "commander": "Arixmethes, Slumbering Isle",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Kraken",
+      "scryfall": "https://scryfall.com/card/dsc/211/arixmethes-slumbering-isle",
+      "image": "https://cards.scryfall.io/small/front/b/f/bf561379-4e5f-486a-bcdf-6e08e105316e.jpg?1783909596",
+      "sheet": {
+        "commander": "Arixmethes, Slumbering Isle",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Mono Green",
+      "aliases": [
+        "Mono Green (CR)"
+      ],
+      "commander": "Yedora, Grave Gardener",
+      "resolution": "sheet",
+      "colors": [
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Treefolk Druid",
+      "scryfall": "https://scryfall.com/card/dsc/209/yedora-grave-gardener",
+      "image": "https://cards.scryfall.io/small/front/7/b/7b852b55-bee1-46fc-87e4-5c01b90bbd43.jpg?1783909598",
+      "sheet": {
+        "commander": "Yedora, Grave Gardener",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Morophon",
+      "aliases": [],
+      "commander": "Morophon, the Boundless",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Shapeshifter",
+      "scryfall": "https://scryfall.com/card/cmm/3/morophon-the-boundless",
+      "image": "https://cards.scryfall.io/small/front/8/4/84238335-e08c-421c-b9b9-70a679ff2967.jpg?1783916893",
+      "sheet": {
+        "commander": "Morophon, the Boundless",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Omnath",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Counted separately from Dylan K's Omnath, since the log does not say they are the same deck. Six legendary Omnaths exist. None is selected.",
+      "candidates": [
+        {
+          "name": "Omnath, Locus of All",
+          "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Phyrexian Elemental",
+          "scryfall": "https://scryfall.com/card/mom/249/omnath-locus-of-all",
+          "image": "https://cards.scryfall.io/small/front/3/3/33d94ecf-758b-4f68-a7be-6bf3ff1047f4.jpg?1783916940"
+        },
+        {
+          "name": "Omnath, Locus of Creation",
+          "colors": [
+            "W",
+            "U",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/znr/232/omnath-locus-of-creation",
+          "image": "https://cards.scryfall.io/small/front/4/e/4e4fb50c-a81f-44d3-93c5-fa9a0b37f617.jpg?1783929320"
+        },
+        {
+          "name": "Omnath, Locus of Mana",
+          "colors": [
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/cmm/310/omnath-locus-of-mana",
+          "image": "https://cards.scryfall.io/small/front/a/c/acf0cab3-da50-4561-8797-cd179af39216.jpg?1783915624"
+        },
+        {
+          "name": "Omnath, Locus of Rage",
+          "colors": [
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/ecc/129/omnath-locus-of-rage",
+          "image": "https://cards.scryfall.io/small/front/6/3/637c5910-f835-496e-b1b9-445bfb71da97.jpg?1783904537"
+        },
+        {
+          "name": "Omnath, Locus of the Roil",
+          "colors": [
+            "U",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/ecc/130/omnath-locus-of-the-roil",
+          "image": "https://cards.scryfall.io/small/front/6/d/6da6957b-8f52-4fc9-affe-e1e0db03fbe2.jpg?1783904535"
+        },
+        {
+          "name": "Omnath, Locus of the Void",
+          "colors": [],
+          "type": "Legendary Creature \u2014 Elemental",
+          "scryfall": "https://scryfall.com/card/frc/3/omnath-locus-of-the-void",
+          "image": "https://cards.scryfall.io/small/front/7/2/727511d8-be1a-4c2e-92f6-5cc9d67a2b0c.jpg?1789644395"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Chris",
+      "nickname": "Bruna",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Dylan S's Bruna is Bruna, Light of Alabaster, but this seat is Chris's, so that mapping was not copied. Two legendary Brunas exist.",
+      "candidates": [
+        {
+          "name": "Bruna, Light of Alabaster",
+          "colors": [
+            "W",
+            "U"
+          ],
+          "type": "Legendary Creature \u2014 Angel",
+          "scryfall": "https://scryfall.com/card/c18/170/bruna-light-of-alabaster",
+          "image": "https://cards.scryfall.io/small/front/5/8/58c56bad-68ed-4328-a7ea-c528b58dc2fd.jpg?1783934280"
+        },
+        {
+          "name": "Bruna, the Fading Light",
+          "colors": [
+            "W"
+          ],
+          "type": "Legendary Creature \u2014 Angel Horror",
+          "scryfall": "https://scryfall.com/card/inr/14/bruna-the-fading-light",
+          "image": "https://cards.scryfall.io/small/front/6/f/6fccdb60-5fce-4a6e-a709-b986f9a4b653.jpg?1783908189"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Helin",
+      "nickname": "Blitz",
+      "aliases": [],
+      "commander": "Henzie \"Toolbox\" Torre",
+      "resolution": "sheet",
+      "colors": [
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Devil Rogue",
+      "scryfall": "https://scryfall.com/card/ncc/2/henzie-toolbox-torre",
+      "image": "https://cards.scryfall.io/small/front/e/e/ee228dcc-3170-4c24-80bc-28bcee07cb43.jpg?1783923381",
+      "sheet": {
+        "commander": "Henzie \"Toolbox\" Torre",
+        "games": 3,
+        "wins": 2,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Helin",
+      "nickname": "Dogmeat",
+      "aliases": [],
+      "commander": "Dogmeat, Ever Loyal",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Dog",
+      "scryfall": "https://scryfall.com/card/pip/2/dogmeat-ever-loyal",
+      "image": "https://cards.scryfall.io/small/front/8/6/86b45e3e-8460-4678-87d1-d74479936c83.jpg?1783912422",
+      "sheet": {
+        "commander": "Dogmeat, Ever Loyal",
+        "games": 7,
+        "wins": 1,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Helin",
+      "nickname": "Eldrazi",
+      "aliases": [],
+      "commander": "Zhulodok, Void Gorger",
+      "resolution": "sheet",
+      "colors": [],
+      "type": "Legendary Creature \u2014 Eldrazi",
+      "scryfall": "https://scryfall.com/card/cmm/704/zhulodok-void-gorger",
+      "image": "https://cards.scryfall.io/small/front/a/0/a015461d-4214-4feb-8b04-519c537759eb.jpg?1783915492",
+      "sheet": {
+        "commander": "Zhulodok, Void Gorger",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Helin",
+      "nickname": "Azula",
+      "aliases": [],
+      "commander": "Fire Lord Azula",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "B",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Noble",
+      "scryfall": "https://scryfall.com/card/tla/220/fire-lord-azula",
+      "image": "https://cards.scryfall.io/small/front/b/c/bc6146bf-f0c6-4557-af6a-74c643d5fc01.jpg?1783904927",
+      "sheet": {
+        "commander": "Fire Lord Azula",
+        "games": 0,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Helin",
+      "nickname": "Mermaids",
+      "aliases": [],
+      "commander": "Hakbal of the Surging Soul",
+      "resolution": "corrected",
+      "colors": [
+        "U",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Merfolk Scout",
+      "scryfall": "https://scryfall.com/card/lcc/3/hakbal-of-the-surging-soul",
+      "image": "https://cards.scryfall.io/small/front/e/7/e738e675-4fd1-4bc3-97f5-71d0e2fc3f2e.jpg?1783913937",
+      "sheet": {
+        "commander": "Hakbal of the Surging Storm",
+        "games": 0,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "The sheet says \"Hakbal of the Surging Storm\". The only Scryfall card named Hakbal is Hakbal of the Surging Soul, so Storm is recorded as a slip.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Brett",
+      "nickname": "Zimone",
+      "aliases": [],
+      "commander": "Zimone, Infinite Analyst",
+      "resolution": "sheet",
+      "colors": [
+        "U",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "scryfall": "https://scryfall.com/card/soc/10/zimone-infinite-analyst",
+      "image": "https://cards.scryfall.io/small/front/6/0/605afac4-d2e5-4e68-97d2-3ac2ead5f3a9.jpg?1783903866",
+      "sheet": {
+        "commander": "Zimone, Infinite Analyst",
+        "games": 4,
+        "wins": 0,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Brett",
+      "nickname": "Aminatou",
+      "aliases": [],
+      "commander": "Aminatou, the Fateshifter",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B"
+      ],
+      "type": "Legendary Planeswalker \u2014 Aminatou",
+      "scryfall": "https://scryfall.com/card/2x2/169/aminatou-the-fateshifter",
+      "image": "https://cards.scryfall.io/small/front/b/c/bc010302-e715-4946-89eb-a214e0b836ba.jpg?1783921857",
+      "sheet": {
+        "commander": "Aminatou, the Fateshifter",
+        "games": 1,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Brett",
+      "nickname": "Sevinne",
+      "aliases": [],
+      "commander": "Sevinne, the Chronoclasm",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "scryfall": "https://scryfall.com/card/c19/49/sevinne-the-chronoclasm",
+      "image": "https://cards.scryfall.io/small/front/2/c/2c209efe-b4dc-44a3-bd45-d647f5680cbe.jpg?1783932797",
+      "sheet": {
+        "commander": "Sevinne, the Chronoclasm",
+        "games": null,
+        "wins": null,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Adam",
+      "nickname": "Zur",
+      "aliases": [],
+      "commander": "Zur, Eternal Schemer",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "B"
+      ],
+      "type": "Legendary Creature \u2014 Human Wizard",
+      "scryfall": "https://scryfall.com/card/dmu/228/zur-eternal-schemer",
+      "image": "https://cards.scryfall.io/small/front/4/d/4d987435-2403-4e0f-b19d-693da923ba50.jpg?1783921271",
+      "sheet": {
+        "commander": "Zur, Eternal Schemer",
+        "games": 2,
+        "wins": 2,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Adam",
+      "nickname": "Hinata",
+      "aliases": [],
+      "commander": "Hinata, Dawn-Crowned",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Kirin Spirit",
+      "scryfall": "https://scryfall.com/card/neo/222/hinata-dawn-crowned",
+      "image": "https://cards.scryfall.io/small/front/f/2/f25aff90-56fd-4f70-bb3b-cabf2900c391.jpg?1783923834",
+      "sheet": {
+        "commander": "Hinata, Dawn-Crowned",
+        "games": 2,
+        "wins": 0,
+        "accuracy": "",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Adam",
+      "nickname": "Gishath",
+      "aliases": [],
+      "commander": "Gishath, Sun's Avatar",
+      "resolution": "sheet",
+      "colors": [
+        "W",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Dinosaur Avatar",
+      "scryfall": "https://scryfall.com/card/lci/229/gishath-suns-avatar",
+      "image": "https://cards.scryfall.io/small/front/b/c/bc4a65de-23b5-48f0-b8b7-94608eaced3e.jpg?1783913733",
+      "sheet": {
+        "commander": "Gishath, Sun's Avatar",
+        "games": 3,
+        "wins": 1,
+        "accuracy": "ok",
+        "notes": ""
+      },
+      "notes": "",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Alex",
+      "nickname": "Kirol",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Two legendary Kirols exist: Kirol, Attentive First-Year and Kirol, History Buff. Neither is selected.",
+      "candidates": [
+        {
+          "name": "Kirol, Attentive First-Year",
+          "colors": [
+            "W",
+            "R"
+          ],
+          "type": "Legendary Creature \u2014 Vampire Cleric",
+          "scryfall": "https://scryfall.com/card/ecl/231/kirol-attentive-first-year",
+          "image": "https://cards.scryfall.io/small/front/c/1/c11cb0eb-819e-4905-ad95-e43618d3c81e.jpg?1783904407"
+        },
+        {
+          "name": "Kirol, History Buff // Pack a Punch",
+          "colors": [
+            "W",
+            "R"
+          ],
+          "type": "Legendary Creature \u2014 Vampire Cleric // Sorcery",
+          "scryfall": "https://scryfall.com/card/sos/198/kirol-history-buff-pack-a-punch",
+          "image": "https://cards.scryfall.io/small/front/6/7/676ba521-66e4-42cf-a315-70d03cb7334e.jpg?1783903642"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Aaron",
+      "nickname": "Sonic",
+      "aliases": [],
+      "commander": "Sonic the Hedgehog",
+      "resolution": "inferred",
+      "colors": [
+        "W",
+        "U",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Hedgehog Warrior",
+      "scryfall": "https://scryfall.com/card/sld/2087/sonic-the-hedgehog",
+      "image": "https://cards.scryfall.io/small/front/0/7/072a0e6f-e636-4ce1-a253-580ab956410e.jpg?1783906090",
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Matched to Sonic the Hedgehog, the only legendary creature whose name starts with Sonic. Aaron also plays Eggman (Dr. Eggman) from the same Secret Lair. Confirm if this is a different card.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Aaron",
+      "nickname": "Eggman",
+      "aliases": [],
+      "commander": "Dr. Eggman",
+      "resolution": "inferred",
+      "colors": [
+        "U",
+        "B",
+        "R"
+      ],
+      "type": "Legendary Creature \u2014 Human Scientist",
+      "scryfall": "https://scryfall.com/card/sld/2084/dr-eggman",
+      "image": "https://cards.scryfall.io/small/front/1/8/18602e92-69be-4626-a28a-463913108f42.jpg?1783906091",
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Scryfall's only Eggman card is Dr. Eggman.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "John",
+      "nickname": "Fantastic Four",
+      "aliases": [],
+      "commander": "The Fantastic Four",
+      "resolution": "inferred",
+      "colors": [
+        "W",
+        "U",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Human Hero",
+      "scryfall": "https://scryfall.com/card/msc/741/the-fantastic-four",
+      "image": "https://cards.scryfall.io/small/front/d/7/d78cb67a-ed8a-4e76-8506-04c274318b56.jpg?1792282544",
+      "sheet": null,
+      "notes": "Not on this player's win-rate rows. The nickname Fantastic Four is The Fantastic Four on Kiley's sheet, and that is the only card by that name. John's games are counted separately from Kiley's.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "John",
+      "nickname": "Hobbit",
+      "aliases": [],
+      "commander": null,
+      "resolution": "unresolved",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. No single official card is named Hobbit. Many legendary Halflings exist (Bilbo, Frodo, Samwise, Merry, Pippin, and others). None is selected.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "John",
+      "nickname": "Ayula",
+      "aliases": [],
+      "commander": "Ayula, Queen Among Bears",
+      "resolution": "inferred",
+      "colors": [
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Bear",
+      "scryfall": "https://scryfall.com/card/mh1/155/ayula-queen-among-bears",
+      "image": "https://cards.scryfall.io/small/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1783933100",
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Ayula, Queen Among Bears is the only legendary card named Ayula. Counted separately from Keegan's Ayula.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "John",
+      "nickname": "Ur-Dragon",
+      "aliases": [],
+      "commander": "The Ur-Dragon",
+      "resolution": "inferred",
+      "colors": [
+        "W",
+        "U",
+        "B",
+        "R",
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Dragon Avatar",
+      "scryfall": "https://scryfall.com/card/cmm/361/the-ur-dragon",
+      "image": "https://cards.scryfall.io/small/front/1/0/10d42b35-844f-4a64-9981-c6118d45e826.jpg?1783915607",
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Matched to The Ur-Dragon. Scion of the Ur-Dragon was not selected.",
+      "candidates": [],
+      "seeAlso": [
+        {
+          "name": "Scion of the Ur-Dragon",
+          "colors": [
+            "W",
+            "U",
+            "B",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Dragon Avatar",
+          "scryfall": "https://scryfall.com/card/c17/192/scion-of-the-ur-dragon",
+          "image": "https://cards.scryfall.io/small/front/5/6/565b2a40-57b1-451f-8c2a-e02222502288.jpg?1783935875",
+          "note": "Different card. Not selected."
+        }
+      ]
+    },
+    {
+      "player": "Keegan",
+      "nickname": "Ayula",
+      "aliases": [],
+      "commander": "Ayula, Queen Among Bears",
+      "resolution": "inferred",
+      "colors": [
+        "G"
+      ],
+      "type": "Legendary Creature \u2014 Bear",
+      "scryfall": "https://scryfall.com/card/mh1/155/ayula-queen-among-bears",
+      "image": "https://cards.scryfall.io/small/front/c/0/c046dfb0-9ca3-4219-a6b0-d7503bc2fbd0.jpg?1783933100",
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Ayula, Queen Among Bears is the only legendary card named Ayula. Counted separately from John's Ayula.",
+      "candidates": [],
+      "seeAlso": []
+    },
+    {
+      "player": "Keegan",
+      "nickname": "Samut",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Seven legendary cards start with Samut. None is selected.",
+      "candidates": [
+        {
+          "name": "Samut, Hazoret's Champion",
+          "colors": [
+            "R"
+          ],
+          "type": "Legendary Creature \u2014 Human Warrior Cleric",
+          "scryfall": "https://scryfall.com/card/fra/251/samut-hazorets-champion",
+          "image": "https://cards.scryfall.io/small/front/b/a/ba920f23-f05c-410e-8516-c93abedf1d4d.jpg?1789729662"
+        },
+        {
+          "name": "Samut, the Driving Force",
+          "colors": [
+            "W",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Human Warrior Cleric",
+          "scryfall": "https://scryfall.com/card/dft/222/samut-the-driving-force",
+          "image": "https://cards.scryfall.io/small/front/8/e/8efd8222-5c37-46d8-a2ec-1d7aae25320b.jpg?1783907852"
+        },
+        {
+          "name": "Samut, the Tested",
+          "colors": [
+            "R",
+            "G"
+          ],
+          "type": "Legendary Planeswalker \u2014 Samut",
+          "scryfall": "https://scryfall.com/card/hou/144/samut-the-tested",
+          "image": "https://cards.scryfall.io/small/front/0/9/09f06f55-7918-46c4-80ff-0bf39e091a4a.jpg?1783936008"
+        },
+        {
+          "name": "Samut, Tyrant of Naktamun",
+          "colors": [
+            "U"
+          ],
+          "type": "Legendary Creature \u2014 Human Wizard",
+          "scryfall": "https://scryfall.com/card/fra/220/samut-tyrant-of-naktamun",
+          "image": "https://cards.scryfall.io/small/front/6/d/6d7d8fa7-ce69-4a8c-9af0-55571393a244.jpg?1789729644"
+        },
+        {
+          "name": "Samut, Tyrant Smasher",
+          "colors": [
+            "R",
+            "G"
+          ],
+          "type": "Legendary Planeswalker \u2014 Samut",
+          "scryfall": "https://scryfall.com/card/war/235/samut-tyrant-smasher",
+          "image": "https://cards.scryfall.io/small/front/e/0/e0457e3f-56c1-401b-8e08-f04b95c55e2d.jpg?1783933374"
+        },
+        {
+          "name": "Samut, Vizier of Naktamun",
+          "colors": [
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Human Warrior Cleric",
+          "scryfall": "https://scryfall.com/card/mat/45/samut-vizier-of-naktamun",
+          "image": "https://cards.scryfall.io/small/front/a/0/a0f3fdb0-47ad-4df6-a95c-a2c81aaf7af5.jpg?1783916508"
+        },
+        {
+          "name": "Samut, Voice of Dissent",
+          "colors": [
+            "W",
+            "R",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Human Warrior",
+          "scryfall": "https://scryfall.com/card/akh/205/samut-voice-of-dissent",
+          "image": "https://cards.scryfall.io/small/front/6/0/60f2d8f1-43a9-438a-830c-9d6b5701f950.jpg?1783936461"
+        }
+      ],
+      "seeAlso": []
+    },
+    {
+      "player": "Keegan",
+      "nickname": "Koma",
+      "aliases": [],
+      "commander": null,
+      "resolution": "ambiguous",
+      "colors": [],
+      "type": null,
+      "scryfall": null,
+      "image": null,
+      "sheet": null,
+      "notes": "Not on the win-rate sheet. Three legendary cards start with Koma. None is selected.",
+      "candidates": [
+        {
+          "name": "Koma and Toski, Compleated",
+          "colors": [
+            "U",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Phyrexian Serpent Squirrel",
+          "scryfall": "https://scryfall.com/card/unk/RZ08b/koma-and-toski-compleated",
+          "image": "https://cards.scryfall.io/small/front/d/8/d8dd0e55-d8eb-4cf5-a860-65f1e6fe661f.jpg?1783916594"
+        },
+        {
+          "name": "Koma, Cosmos Serpent",
+          "colors": [
+            "U",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Serpent",
+          "scryfall": "https://scryfall.com/card/mkc/213/koma-cosmos-serpent",
+          "image": "https://cards.scryfall.io/small/front/b/2/b2f23d6f-f2c8-4022-9f46-ba7fda00ef99.jpg?1783912978"
+        },
+        {
+          "name": "Koma, World-Eater",
+          "colors": [
+            "U",
+            "G"
+          ],
+          "type": "Legendary Creature \u2014 Serpent",
+          "scryfall": "https://scryfall.com/card/fdn/121/koma-world-eater",
+          "image": "https://cards.scryfall.io/small/front/c/3/c3b92caa-3401-4b11-9515-152f3e057c05.jpg?1783909091"
+        }
+      ],
+      "seeAlso": []
+    }
+  ]
+}

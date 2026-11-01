@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Commander playgroup game log, player win rates, and deck win rates." />
+    <meta name="theme-color" content="#101815" />
+    <title>MTG Win Stats</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,650&family=Outfit:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip" href="#app">Skip to the stats</a>
+    <div class="wrap">
+      <header class="site">
+        <p class="eyebrow">Commander playgroup</p>
+        <h1>MTG Win Stats</h1>
+        <p class="lede">
+          Who played, who won, and how the decks are doing. Every record on this page is counted from the game log.
+          Spreadsheet totals stay attached when they tell a different story.
+        </p>
+        <div class="totals" id="totals"></div>
+      </header>
+      <nav class="tabs" aria-label="Sections">
+        <button class="tab" type="button" data-view="log" aria-selected="true">Game log</button>
+        <button class="tab" type="button" data-view="players" aria-selected="false">Players</button>
+        <button class="tab" type="button" data-view="decks" aria-selected="false">Decks</button>
+      </nav>
+      <main id="app">
+        <p class="loading">Loading the log…</p>
+      </main>
+      <footer class="site-foot">
+        <p>
+          <a id="add-game" href="https://github.com/Christopher-C-Robinson-Organization/mtg-win-stats/blob/main/CONTRIBUTING.md">Add a game</a>
+          ·
+          <a id="edit-log" href="https://github.com/Christopher-C-Robinson-Organization/mtg-win-stats/edit/main/data/games.csv">Edit the log</a>
+          ·
+          <a id="edit-decks" href="https://github.com/Christopher-C-Robinson-Organization/mtg-win-stats/edit/main/data/decks.json">Edit decks</a>
+          ·
+          <a id="sheet-link" href="https://docs.google.com/spreadsheets/d/1jwvDHDmozn2W8RYwfcsq7JMukdxcRq71E_-GPSInP58/edit">Original spreadsheet</a>
+        </p>
+        <p>
+          Card names and images come from <a href="https://scryfall.com">Scryfall</a>. This is a fan log, not affiliated with Wizards of the Coast.
+        </p>
+      </footer>
+    </div>
+    <noscript>This page reads the game log in your browser and needs JavaScript.</noscript>
+    <script src="stats.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
