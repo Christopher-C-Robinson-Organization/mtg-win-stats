@@ -1,0 +1,64 @@
+{
+  "name": "MTG Win Stats",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1jwvDHDmozn2W8RYwfcsq7JMukdxcRq71E_-GPSInP58/edit",
+  "repo": "https://github.com/Christopher-C-Robinson-Organization/mtg-win-stats",
+  "importedFromSheet": "2026-10-31",
+  "commandersResolved": "2026-11-01",
+  "players": [
+    {
+      "name": "Kiley",
+      "sheetGames": 33,
+      "sheetWins": 10
+    },
+    {
+      "name": "Dylan S",
+      "sheetGames": 21,
+      "sheetWins": 7
+    },
+    {
+      "name": "Dylan K",
+      "sheetGames": 20,
+      "sheetWins": 4
+    },
+    {
+      "name": "Chris",
+      "sheetGames": 8,
+      "sheetWins": 1
+    },
+    {
+      "name": "Helin",
+      "sheetGames": 12,
+      "sheetWins": 3
+    },
+    {
+      "name": "Brett",
+      "sheetGames": 5,
+      "sheetWins": 0
+    },
+    {
+      "name": "Adam",
+      "sheetGames": 7,
+      "sheetWins": 3
+    },
+    {
+      "name": "Alex",
+      "sheetGames": null,
+      "sheetWins": null
+    },
+    {
+      "name": "Aaron",
+      "sheetGames": null,
+      "sheetWins": null
+    },
+    {
+      "name": "John",
+      "sheetGames": null,
+      "sheetWins": null
+    },
+    {
+      "name": "Keegan",
+      "sheetGames": null,
+      "sheetWins": null
+    }
+  ]
+}
